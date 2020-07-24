@@ -11,9 +11,11 @@ To create the table and generate the test accounts you want to use create.php bu
 Thanks for the oportunity to apply for this position.
 
 GOAL
+
 Make an HTML form, submit form data to PHP, validate the data, insert into a database, and return a success response to client
 
 SPECS
+
 Write plain PHP, HTML, and CSS-- no libraries, frameworks, or JavaScript
 Output an HTML document including email, password, confirm password, birthday, and submit button
 Center the form on the page vertically and horizontally
