@@ -8,6 +8,8 @@ I put an additional way to get a list of the existent emails http://willysites.c
 
 To create the table and generate the test accounts you want to use create.php but because this is a cpanel web hosting there is no way to run it. I ran it locally in my computer.
 
+I tried to make it responsive. Feel free to check it in mobile view.
+
 Thanks for the oportunity to apply for this position.
 
 Guillermo Williamson
