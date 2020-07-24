@@ -10,6 +10,10 @@ To create the table and generate the test accounts you want to use create.php bu
 
 Thanks for the oportunity to apply for this position.
 
+Guillermo Williamson
+
+-----------------------------------------------
+
 GOAL
 
 Make an HTML form, submit form data to PHP, validate the data, insert into a database, and return a success response to client
@@ -28,5 +32,3 @@ Validate:
 When input is invalid return a response to let the user know what inputs to correct
 Otherwise, input is valid create a schema for a users table if not exists with the above fields and save it to your new Mysql table using PDO
 Return a response to the user updating them on the status of their request 
-
-Guillermo Williamson
